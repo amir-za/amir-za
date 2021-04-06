@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amir-za
-- 👀 I’m interested in python matlab 
+- 👀 I’m interested in matlab and python
 - 🌱 I’m currently learning unity and c#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
